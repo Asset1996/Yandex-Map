@@ -1,0 +1,16 @@
+body{
+    margin-top: 50px !important;
+}
+
+form{
+    width: 50%;
+}
+
+#results {
+    width: 50%;
+    margin-top: 20px;
+    padding: 30px 30px;
+    background-color: aliceblue;
+    border: 1px solid transparent;
+    border-radius: 10px;
+}
